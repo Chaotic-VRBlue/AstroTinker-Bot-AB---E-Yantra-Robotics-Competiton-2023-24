@@ -1,6 +1,7 @@
 # AstroTinker Bot (AB) Theme
 
 AstroTinker Bot (AB) Theme!
+![Front view](https://github.com/Chaotic-VRBlue/AstroTinker-Bot-AB---E-Yantra-Robotics-Competiton-2023-24/assets/115022149/960f5533-344d-4712-9213-8fa5f2d21467)
 
 ## Overview
 
@@ -9,6 +10,10 @@ In a future not too distant, the boundaries of human exploration have extended f
 Recognizing the need for efficient and reliable solutions, this theme revolves around a scenario where a robot is dispatched to a space station, divided into different modules, to rectify any problems that arise. Prompted by wireless alerts from the central hub, the robot navigates through the modules, swiftly locating faulty or missing components. It then communicates the issue to the central hub before heading to the electronics warehouse to perform the necessary repairs.
 
 The core challenge of this theme lies in constructing the AstroTinker Bot using Verilog HDL (Hardware Description Language), unveiling the remarkable parallel processing capabilities offered by FPGAs (Field Programmable Gate Arrays). Through Verilog coding, the robot adeptly perceives its environment and performs essential tasks by communicating wirelessly with the central hub.
+
+![Top view](https://github.com/Chaotic-VRBlue/AstroTinker-Bot-AB---E-Yantra-Robotics-Competiton-2023-24/assets/115022149/53461bd3-be3e-4eb0-bb79-70dc5835ef02)
+
+![Side view](https://github.com/Chaotic-VRBlue/AstroTinker-Bot-AB---E-Yantra-Robotics-Competiton-2023-24/assets/115022149/c93d6306-454f-4618-a8e2-2325f466ef2c)
 
 ## Features
 
