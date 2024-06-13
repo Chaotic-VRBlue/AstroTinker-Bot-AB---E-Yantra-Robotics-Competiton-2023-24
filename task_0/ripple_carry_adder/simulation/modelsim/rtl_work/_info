@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/simulation/modelsim
+vfull_adder
+Z1 !s110 1694783267
+!i10b 1
+!s100 i;I4MLcL@;JKUDz5:O9_L3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IbdY>55WkK0gC^Z3^c8U;G3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1694782369
+8C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/full_adder.v
+FC:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/full_adder.v
+!i122 1
+L0 3 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1694783267.000000
+!s107 C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2|C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/full_adder.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work {+incdir+C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2}
+Z8 tCvgOpt 0
+vripple_carry_adder
+!s110 1694783266
+!i10b 1
+!s100 <NJQNCLVoEXnCQVoPK;^33
+R2
+ID`^KkfWHde>DE??J:ac[62
+R3
+R0
+w1694777616
+8C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder.v
+FC:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder.v
+!i122 0
+L0 3 12
+R4
+r1
+!s85 0
+31
+!s108 1694783266.000000
+!s107 C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2|C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder.v|
+!i113 1
+R6
+R7
+R8
+vtb_ripple_carry_adder
+R1
+!i10b 1
+!s100 ikjl21:RJCj_[kIDbgAj`0
+R2
+IVN_U]m<fnlaRdeD?m;WPJ0
+R3
+R0
+w1694783179
+8C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder_test_bench.v
+FC:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder_test_bench.v
+!i122 2
+L0 3 17
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2|C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder_test_bench.v|
+!i113 1
+R6
+R7
+R8

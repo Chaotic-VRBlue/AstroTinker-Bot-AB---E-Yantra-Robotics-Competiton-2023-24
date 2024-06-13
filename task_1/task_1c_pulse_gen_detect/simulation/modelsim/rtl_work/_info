@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/simulation/modelsim
+vt1c_pulse_gen_detect
+Z1 !s110 1697214356
+!i10b 1
+!s100 =EDO?LU@dEA2NL`BiQkLD2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I03^;mX4OHie]5?KNZi9a31
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1697214126
+8D:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/t1c_pulse_gen_detect.v
+FD:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/t1c_pulse_gen_detect.v
+!i122 0
+L0 21 56
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1697214356.000000
+!s107 D:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/t1c_pulse_gen_detect.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect|D:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/t1c_pulse_gen_detect.v|
+!i113 1
+Z6 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 2RQ1Im[@H_DRRfH<MN?1E1
+R2
+ISOFDlI9bgQDm33SJC<1md0
+R3
+R0
+w1697213930
+8D:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/simulation/modelsim/tb.v
+FD:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/simulation/modelsim/tb.v
+!i122 1
+L0 3 120
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/simulation/modelsim|D:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/simulation/modelsim/tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+D:/Files/Quartus/AT/task_1c/t1c_pulse_gen_detect/simulation/modelsim
+R7

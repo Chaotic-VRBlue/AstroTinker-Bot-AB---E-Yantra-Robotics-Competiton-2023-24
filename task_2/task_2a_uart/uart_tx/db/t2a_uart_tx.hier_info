@@ -1,0 +1,34 @@
+|uart_tx
+clk_50M => bit[0].CLK
+clk_50M => bit[1].CLK
+clk_50M => bit[2].CLK
+clk_50M => bit[3].CLK
+clk_50M => counter[0].CLK
+clk_50M => counter[1].CLK
+clk_50M => counter[2].CLK
+clk_50M => counter[3].CLK
+clk_50M => counter[4].CLK
+clk_50M => counter[5].CLK
+clk_50M => counter[6].CLK
+clk_50M => counter[7].CLK
+clk_50M => counter[8].CLK
+clk_50M => tx~reg0.CLK
+data[0] => WideNor0.IN0
+data[0] => tx.DATAB
+data[1] => WideNor0.IN1
+data[1] => tx.DATAB
+data[2] => WideNor0.IN2
+data[2] => tx.DATAB
+data[3] => WideNor0.IN3
+data[3] => tx.DATAB
+data[4] => WideNor0.IN4
+data[4] => tx.DATAB
+data[5] => WideNor0.IN5
+data[5] => tx.DATAB
+data[6] => WideNor0.IN6
+data[6] => tx.DATAB
+data[7] => WideNor0.IN7
+data[7] => tx.DATAB
+tx << tx~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

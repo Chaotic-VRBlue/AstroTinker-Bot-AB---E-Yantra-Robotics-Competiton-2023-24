@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/simulation/modelsim
+vhard_block
+Z1 !s110 1694780837
+!i10b 1
+!s100 Y9Qb5WLac0EECVB[VgG``2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ioc[VE9k^d8Q46X5OHYJBA3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1694780765
+Z5 8ripple_carry_adder.vo
+Z6 Fripple_carry_adder.vo
+!i122 0
+L0 250 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1694780837.000000
+Z9 !s107 ripple_carry_adder.vo|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|ripple_carry_adder.vo|
+!i113 1
+Z11 o-vlog01compat -work work
+Z12 !s92 -vlog01compat -work work +incdir+.
+Z13 tCvgOpt 0
+vripple_carry_adder
+R1
+!i10b 1
+!s100 ^I9GbKnFdg9F5_gKR_Z3I0
+R2
+IIFBY39c0:cDk5N_]J8dKo2
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 32 217
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+vtb_ripple_carry_adder
+!s110 1694780848
+!i10b 1
+!s100 T9;ic3;;C0ozWl`L7AEdX2
+R2
+IioLKfh@B@^MR02=99oV_f0
+R3
+R0
+w1694779787
+8C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder_test_bench.v
+FC:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder_test_bench.v
+!i122 1
+L0 3 17
+R7
+r1
+!s85 0
+31
+!s108 1694780847.000000
+!s107 C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2|C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2/ripple_carry_adder_test_bench.v|
+!i113 1
+R11
+!s92 -vlog01compat -work work {+incdir+C:/Users/sanjana MR/OneDrive/Desktop/tasks/p2}
+R13

@@ -1,0 +1,152 @@
+$comment
+	File created using the following command:
+		vcd file AND_GATE.msim.vcd -direction
+$end
+$date
+	Fri Sep 15 01:30:26 2023
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module and_gate_vlg_vec_tst $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var wire 1 # out $end
+
+$scope module i1 $end
+$var wire 1 $ gnd $end
+$var wire 1 % vcc $end
+$var wire 1 & unknown $end
+$var tri1 1 ' devclrn $end
+$var tri1 1 ( devpor $end
+$var tri1 1 ) devoe $end
+$var wire 1 * out~output_o $end
+$var wire 1 + a~input_o $end
+$var wire 1 , b~input_o $end
+$var wire 1 - out~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+1"
+1#
+0$
+1%
+x&
+1'
+1(
+1)
+1*
+1+
+1,
+1-
+$end
+#50000
+0!
+0+
+0-
+0*
+0#
+#100000
+0"
+1!
+0,
+1+
+#150000
+0!
+0+
+#200000
+1"
+1!
+1,
+1+
+1-
+1*
+1#
+#250000
+0!
+0+
+0-
+0*
+0#
+#300000
+0"
+1!
+0,
+1+
+#350000
+0!
+0+
+#400000
+1"
+1!
+1,
+1+
+1-
+1*
+1#
+#450000
+0!
+0+
+0-
+0*
+0#
+#500000
+0"
+1!
+0,
+1+
+#550000
+0!
+0+
+#600000
+1"
+1!
+1,
+1+
+1-
+1*
+1#
+#650000
+0!
+0+
+0-
+0*
+0#
+#700000
+0"
+1!
+0,
+1+
+#750000
+0!
+0+
+#800000
+1"
+1!
+1,
+1+
+1-
+1*
+1#
+#850000
+0!
+0+
+0-
+0*
+0#
+#900000
+0"
+1!
+0,
+1+
+#950000
+0!
+0+
+#1000000

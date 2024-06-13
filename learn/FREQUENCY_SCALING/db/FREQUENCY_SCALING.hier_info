@@ -1,0 +1,8 @@
+|frequency_scaling
+clk_50M => counter[0].CLK
+clk_50M => counter[1].CLK
+clk_50M => counter[2].CLK
+clk_50M => clk_3125KHz~reg0.CLK
+clk_3125KHz <= clk_3125KHz~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
